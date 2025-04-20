@@ -1,6 +1,7 @@
 <html>
  <head>
-  <title = main>
+  <meta charset="utf-8"/>
+  <title>main</title>
  </head>
  <body>
 
