@@ -1,1 +1,1 @@
-from
+let element = int(input()) 
